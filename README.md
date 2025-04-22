@@ -1,5 +1,4 @@
 # Self-Destructing-JS-Redirect-Trap-Analysis-April-2025-
-# 🔍 Self-Destructing JS Redirect Trap Analysis (April 2025)
 
 ## 🎯 Overview
 This document details the analysis of a suspicious link that appeared briefly online (~15 minutes) and was manually deleted by the individual who posted it. The link led to a webpage hosted under a seemingly benign domain, but its behavior revealed obfuscated JavaScript, external data exfiltration, and redirection behavior consistent with black hat campaigns.
@@ -85,8 +84,6 @@ The subdomain being under a legit-looking domain (possibly compromised WordPress
 
 ## 👤 Analyst
 **Sebastian** (Grey Hat Researcher, April 2025)
-
-GitHub Repo: _Coming Soon_
 
 ---
 
