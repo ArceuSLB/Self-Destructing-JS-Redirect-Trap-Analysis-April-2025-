@@ -1,0 +1,1 @@
+# Self-Destructing-JS-Redirect-Trap-Analysis-April-2025-
